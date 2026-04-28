@@ -1,16 +1,27 @@
-## Hi there 👋
+### Lorenzo Scanio &nbsp;·&nbsp; Enzo
+**DAW student** · Málaga, Spain 🇪🇸 &nbsp;|&nbsp; Italian roots 🇮🇹
+
+---
+
+I'm a Higher Degree student in **Web Application Development**, currently working through the Prometeo Master program.  
+Building things from the ground up — one line of code at a time.
+
+```
+HTML     ████████░░   learning
+CSS      ██████░░░░   in progress
+Git      ████░░░░░░   basics
+```
+
+---
+
+**Reach me**
 
 <!--
-**lorenzo-sc/lorenzo-sc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-333?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 -->
+*Links coming soon*
+
+---
+
+<sub>Learning in public · Málaga · 2025</sub>
