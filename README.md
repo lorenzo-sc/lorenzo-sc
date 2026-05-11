@@ -10,6 +10,7 @@ Building things from the ground up — one line of code at a time.
 | HTML | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ | learning |
 | CSS | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ | in progress |
 | Git | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ | basics |---
+| Python | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ | learning |
 
 **Reach me**
 
