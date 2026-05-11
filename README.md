@@ -5,11 +5,11 @@
 
 I'm a Higher Degree student in **Web Application Development**, currently working through the Prometeo Master program.  
 Building things from the ground up — one line of code at a time.
+| | | |
 |---|---|---|
 | HTML | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ | learning |
 | CSS | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ | in progress |
-| Git | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ | basics |
----
+| Git | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ | basics |---
 
 **Reach me**
 
